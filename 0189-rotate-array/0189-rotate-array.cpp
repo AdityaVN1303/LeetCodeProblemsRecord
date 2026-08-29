@@ -6,10 +6,9 @@ public:
         k%=n;
         int i = 0;
         int count = 0;
-        int j = 0;
 
         while(count < n){
-            j = i;
+            int j = i;
             int current = nums[j];
             do{
                 int nextPos = (j+k)%n;
