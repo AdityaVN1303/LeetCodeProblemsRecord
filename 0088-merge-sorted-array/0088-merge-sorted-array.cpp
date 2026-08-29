@@ -1,8 +1,6 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        if(n == 0) return;
-        if(m == 0) nums1[0] = nums2[0];
 
         int itr = nums1.size();
         
