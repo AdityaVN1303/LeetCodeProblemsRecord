@@ -1,17 +1,13 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        set<int> stt;
+        sort(nums.begin() , nums.end());
+        nums.erase(unique(nums.begin() , nums.end()) , nums.end());
         
-        for(int x : nums){
-            stt.insert(x);
-            
-            if(stt.size() > 3){
-                stt.erase(stt.begin());
-            }
+        if(nums.size() < 3) return *nums.rbegin();
+        else{
+            auto itr = nums.rbegin()+2;
+            return *itr;
         }
-
-        if(stt.size() == 3) return *stt.begin();
-        else return *stt.rbegin();
         }
 };
