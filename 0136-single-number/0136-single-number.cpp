@@ -1,11 +1,16 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        sort(nums.begin() , nums.end());
+        unordered_set<int> stt;
 
-        for(int i=0; i<nums.size()-1; i+=2){
-            if(nums[i] != nums[i+1]) return nums[i];
+        for(int x : nums){
+            if(stt.find(x) == stt.end()){
+                stt.insert(x);
+            }
+            else{
+                stt.erase(x);
+            }
         }
-        return nums[nums.size()-1];
+        return *stt.begin();
     }
 };
