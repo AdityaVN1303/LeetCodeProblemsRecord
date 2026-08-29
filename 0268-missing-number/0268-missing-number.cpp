@@ -2,20 +2,9 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
-        int i = 0;
-        while(i < n){
-            int correct = nums[i];
-            if(nums[i] >= 0 && nums[i] < n && nums[i] != nums[correct]){
-                swap(nums[i] , nums[correct]);
-            }
-            else{
-                ++i;
-            }
-        }
+        int full = n*(n+1)/2;
+        int total = accumulate(nums.begin() , nums.end() , 0);
 
-        for(int i = 0; i<n; ++i){
-            if(nums[i] != i) return i;
-        }
-        return n;
+        return full - total;
     }
 };
