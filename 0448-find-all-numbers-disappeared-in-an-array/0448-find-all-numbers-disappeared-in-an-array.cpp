@@ -4,19 +4,16 @@ public:
         int i = 0;
         int n = nums.size();
         vector<int>ans;
-        while(i < n){
-            int correct = nums[i] - 1;
-            if(nums[i] != nums[correct]){
-                swap(nums[i] , nums[correct]);
+        sort(nums.begin() , nums.end());
+        nums.erase(unique(nums.begin() , nums.end()) , nums.end());
+        
+        int itr = 0;
+        for(int i=1; i<=n; ++i){
+            if(i != nums[itr]){
+                ans.push_back(i);
             }
             else{
-                ++i;
-            }
-        }
-
-        for(int i = 0; i<nums.size(); ++i){
-            if(nums[i] != i+1){
-                ans.push_back(i+1);
+                itr++;
             }
         }
         return ans;
