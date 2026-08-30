@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0485-max-consecutive-ones) |
 | [1052-grumpy-bookstore-owner](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1052-grumpy-bookstore-owner) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
