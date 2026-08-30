@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0645-set-mismatch) |
 | [1052-grumpy-bookstore-owner](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1052-grumpy-bookstore-owner) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0645-set-mismatch) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1052-grumpy-bookstore-owner) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
