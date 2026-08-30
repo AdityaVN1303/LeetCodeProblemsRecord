@@ -1,21 +1,12 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
+        int count = 0;
         int n = nums.size();
-        int consecutive = 0;
-        int itr = 0;
-        int i = 0;
-
-        if(nums.size() == 1) return true;
-        while(itr < 2*n){
-            int next = (i+1)%n;
-            if(nums[i] <= nums[next]) consecutive++;
-            else consecutive = 0;
-
-            if(consecutive == n-1) return true;
-            i = next;
-            itr++;
+        for(int i=0; i<n; ++i){
+            
+            if(nums[i] > nums[(i+1)%n]) count++;
         }
-        return false; 
+        return count <= 1;
     }
 };
