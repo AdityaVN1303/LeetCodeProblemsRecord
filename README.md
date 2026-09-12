@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0645-set-mismatch) |
+| [0875-koko-eating-bananas](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0875-koko-eating-bananas) |
 | [1052-grumpy-bookstore-owner](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1052-grumpy-bookstore-owner) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-koko-eating-bananas](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
