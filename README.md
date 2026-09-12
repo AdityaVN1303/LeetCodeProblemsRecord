@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0268-missing-number) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0560-subarray-sum-equals-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
