@@ -1,14 +1,6 @@
 class Solution {
 public:
 
-    long long calcHours(vector<int>& piles , int speed){
-        long long hours = 0;
-        for(int x : piles){
-            hours += (x+speed-1)/speed;
-        }
-        return hours;
-    }
-
     int minEatingSpeed(vector<int>& piles, int h) {
         int i=1;
         int j = *max_element(piles.begin() , piles.end());
@@ -17,7 +9,10 @@ public:
 
             int mid = i + (j-i)/2;
             
-            long long val = calcHours(piles , mid);
+            long long val = 0; 
+            for(int x : piles){
+            val += (x+mid-1)/mid;
+                }   
 
             if(val <= h){
                 j = mid-1;
