@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1052-grumpy-bookstore-owner) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
