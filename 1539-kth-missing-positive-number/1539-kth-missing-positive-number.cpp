@@ -17,7 +17,7 @@ public:
             }
         }
 
-        return k + j + 1;
+        return i + k;
         
     }
 };
