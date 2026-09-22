@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0645-set-mismatch) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
