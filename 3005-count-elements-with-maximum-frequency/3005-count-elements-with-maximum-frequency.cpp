@@ -3,21 +3,20 @@ public:
     int maxFrequencyElements(vector<int>& nums) {
         unordered_map<int , int> mpp;
 
+        int sum = 0;
+        int maxFreq = INT_MIN;
         for(int x : nums){
             mpp[x]++;
-        }
 
-        int maxFreq = INT_MIN;
-        
-        for(auto& [_ , second] : mpp){
-            maxFreq = max(maxFreq , second);
+            if(mpp[x] > maxFreq){
+                maxFreq = mpp[x];
+                sum = mpp[x];
+            }
+            else if(mpp[x] == maxFreq){
+                sum += mpp[x];
+            }
+            
         }
-
-        int sum = 0;
-        for(auto& [_ , second] : mpp){
-            if(second == maxFreq) sum += maxFreq;
-        }
-
         return sum;
     }
 };
