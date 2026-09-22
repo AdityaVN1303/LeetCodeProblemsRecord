@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/3005-count-elements-with-maximum-frequency) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/AdityaVN1303/LeetCodeProblemsRecord/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
